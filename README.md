@@ -1,5 +1,6 @@
 # purdue-cs240-coding-style
 C Formatting Config File for Purdue CS240
+(this is one of many tools. not all checks are gauranteed. config is provided as is without warranties on grades)
 
 ## Setup
 
