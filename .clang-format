@@ -1,0 +1,31 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 2
+---
+Language: Cpp
+UseTab: Never
+SpaceBeforeParens: ControlStatements
+SortUsingDeclarations: true
+PointerAlignment: Right
+ColumnLimit: 80
+#BreakBeforeBraces: Stroustrup
+BreakBeforeBraces: Custom
+IncludeBlocks: Regroup
+BraceWrapping:
+  AfterClass: false
+  AfterEnum: false
+  AfterFunction: false
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterExternBlock: false
+  BeforeCatch: true
+  BeforeElse: true
+  SplitEmptyFunction: true
+
+AlwaysBreakAfterReturnType: None
+AllowShortLoopsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AlignOperands: true
+AlignAfterOpenBracket: Align
+---
