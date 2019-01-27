@@ -29,3 +29,4 @@ AllowShortIfStatementsOnASingleLine: false
 AlignOperands: true
 AlignAfterOpenBracket: Align
 ---
+
