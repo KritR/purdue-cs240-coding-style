@@ -20,7 +20,7 @@ Add / Commit it to your Project so Make doesn't clean it away.
 
 To format a file from the terminal.
 
-`clang -i <filename.c>`
+`clang-format -i <filename.c>`
 
 To format a file from vim.
 
