@@ -23,6 +23,7 @@ BraceWrapping:
   BeforeElse: true
   SplitEmptyFunction: true
 
+PenaltyBreakAssignment: 100
 AlwaysBreakAfterReturnType: None
 AllowShortLoopsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
