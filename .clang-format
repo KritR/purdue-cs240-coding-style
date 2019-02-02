@@ -23,6 +23,7 @@ BraceWrapping:
   BeforeElse: true
   SplitEmptyFunction: true
 
+SpaceAfterCStyleCast: true
 PenaltyBreakAssignment: 100
 AlwaysBreakAfterReturnType: None
 AllowShortLoopsOnASingleLine: false
