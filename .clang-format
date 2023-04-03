@@ -30,5 +30,6 @@ AllowShortLoopsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 AlignOperands: true
 AlignAfterOpenBracket: Align
+IndentCaseLabels: true
 ---
 
